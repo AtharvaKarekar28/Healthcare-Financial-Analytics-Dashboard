@@ -1,0 +1,14 @@
+Type of Control,Control Label,Ownership Category
+1,Voluntary Non-Profit - Church,Non-Profit
+2,Voluntary Non-Profit - Other,Non-Profit
+3,Voluntary Non-Profit - Other (Type 3),Non-Profit
+4,Proprietary - Individual,For-Profit
+5,Proprietary - Partnership,For-Profit
+6,Proprietary - Corporation,For-Profit
+7,Proprietary - Other,For-Profit
+8,Governmental - Federal,Government
+9,Governmental - City/County,Government
+10,Governmental - County,Government
+11,Governmental - State,Government
+12,Governmental - Hospital District,Government
+13,Governmental - City,Government
